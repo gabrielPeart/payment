@@ -1,0 +1,16 @@
+{
+    "android_skus": {
+        "1": "<string>",
+        "3": "<string>",
+        "6": "<string>",
+        "12": "<string>"
+    },
+    "ios_skus": {
+        "1": "com.sillens.iShape.1a.v3",
+        "3": "com.sillens.iShape.tier22.3month",
+        "6": "com.sillens.iShape.6a.v3.offer",
+        "12": "com.sillens.iShape.tier45.12month"
+    },
+    "discount_value": "30",
+    "validUntil": "1565913600"
+}
