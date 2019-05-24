@@ -1,17 +1,1 @@
-{
-	"android": {
-		"default_skus": {
-			"1": "com.sillens.shapeupclub.1a.v3",
-			"3": "com.sillens.shapeupclub.3a",
-			"12": "com.sillens.shapeupclub.12a.v4"
-		}
-	},
-	"ios": {
-		"1": "com.sillens.iShape.1a.v3",
-		"3": "com.sillens.iShape.tier22.3month",
-		"6": "com.sillens.iShape.6a.v3.offer",
-		"12": "com.sillens.iShape.tier45.12month"
-	},
-	"discount_value": "30",
-	"validUntil": "1565913600"
-}
+{}
